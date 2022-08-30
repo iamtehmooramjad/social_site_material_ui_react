@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Social Site with Material UI in React JS
+
+# Light Mode
+
+![Screenshot](screenshot_light.png)
+
+# Dark Mode
+
+![Screenshot](screenshot_dark.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
